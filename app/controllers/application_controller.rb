@@ -12,5 +12,6 @@ class ApplicationController < ActionController::Base
     !current_user.nil?
   end
   
-  #test
+  #comment
+  #comment
 end
